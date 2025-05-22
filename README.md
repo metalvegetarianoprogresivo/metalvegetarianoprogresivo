@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @metalvegetarianoprogresivo
 - 👀 I’m interested in coding and card games.
-- 🌱 I’m currently learning React Native, NextJS and how to grow my own coffee.
+- 🌱 I’m currently learning React Native, NextJS and how to brew coffee.
 - 💞️ I’m looking to collaborate on any React + Typescript project.
 - 📫 How to reach me: email or dm at @lordzero0000
 
